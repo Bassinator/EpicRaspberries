@@ -6,4 +6,4 @@ categories: update
 ---
 Mit überragender Mehrheit hat sich unser Kurs für einen Namen entschieden. Wir sind jetzt die Epic Raspberries. 
 
-![Logo](/assets/epic_raspberries.png)
+![Logo]({{ site.baseurl }}/assets/epic_raspberries.png)
