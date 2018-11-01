@@ -18,8 +18,8 @@ email: bastian.greuel@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Du bist auf der Newsseite des Programmierkurs für Kinder in Bergdietikon.
   Auf dieser Seite werden regelmässig Neuigkeiten zum Kurs publiziert.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://bassinator.github.io/epicraspberries" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "epicraspberries" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
