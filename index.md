@@ -5,3 +5,4 @@
 layout: home
 list_title: Infos
 ---
+![Logo](/assets/epic_raspberries.png)
