@@ -25,7 +25,7 @@ url: "https://bassinator.github.io" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-hacker
+theme: jekyll-theme-modernist
 plugins:
   - jekyll-feed
 
