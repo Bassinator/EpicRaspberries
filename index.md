@@ -4,8 +4,6 @@
 
 layout: home
 list_title: Infos
-background-image: {{ site.baseurl }}/images/Logo.png
 ---
-background-image: url('/assets/Logo.png')
-![Logo]({{ site.baseurl }}/assets/Logo.png)
+![Logo]({{ site.baseurl }}/assets/Logo.png =240x135)
 
