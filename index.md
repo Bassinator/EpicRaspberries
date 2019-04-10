@@ -4,7 +4,8 @@
 
 layout: home
 list_title: Infos
-background-image: url({{ site.baseurl }}/assets/Logo.png)
+background-image: url('/assets/Logo.png')
 ---
+background-image: url('/assets/Logo.png')
 ![Logo]({{ site.baseurl }}/assets/Logo.png)
 
