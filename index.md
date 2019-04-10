@@ -5,4 +5,4 @@
 layout: home
 list_title: Infos
 ---
-![Logo]({{ site.baseurl }}/assets/epic_raspberries.png)
+![Logo]({{ site.baseurl }}/assets/Logo.png)
