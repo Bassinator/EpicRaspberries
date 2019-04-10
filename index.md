@@ -6,3 +6,4 @@ layout: home
 list_title: Infos
 ---
 ![Logo]({{ site.baseurl }}/assets/Logo.png)
+
