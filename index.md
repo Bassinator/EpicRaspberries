@@ -6,4 +6,4 @@ layout: home
 list_title: Infos
 ---
 ![Logo]({{ site.baseurl }}/assets/Logo.png)
-
+![Logo]({{ site.baseurl }}/assets/EpicLogo.png)
