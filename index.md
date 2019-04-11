@@ -3,6 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-list_title: Infos
+list_title: Infos ![Logo]({{ site.baseurl }}/assets/Logo_white.png){:height="128px"}
 ---
 ![Logo]({{ site.baseurl }}/assets/Logo_white.png){:height="128px"}
