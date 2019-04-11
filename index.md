@@ -5,4 +5,4 @@
 layout: home
 list_title: Infos
 ---
-![Logo]({{ site.baseurl }}/assets/Logo_white.png){:height="36px" width="36px"}
+![Logo]({{ site.baseurl }}/assets/Logo_white.png){:height="128px"}
