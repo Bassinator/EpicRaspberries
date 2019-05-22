@@ -1,22 +1,16 @@
 <html>
-  <head>
-    <meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <title>yoda Checkpoints</title>
-    <!-- model not loading 
-    <script src="assets/lib/aframe-extras.js"></script> -->
-    <!-- works with this -->
-    <script src="assets/lib/aframe.min.js"></script>
-  </head>
-  <body>
-    <a-scene>
-      <a-assets>
-        <a-asset-item id="yoda" src="assets/models/sgp24_yoda_master/scene.gltf"></a-asset-item>
-      </a-assets>
+ <head>
+   <script src="assets/lib/aframe.min.js"></script>
+ </head>
+ <body>
+   <a-scene>
+     <a-assets>
+       <img id="groundTexture" src="assets/images/floor.jpg">
+       <img id="skyTexture" src="assets/images/sky.jpg">
+       <a-asset-item id="joda" src="assets/models/sgp24_yoda_master/scene.gltf"></a-asset-item>
+     </a-assets>
 
-      <!-- yoda-->
-      <a-entity id='imp-model' gltf-model="#yoda" scale="0.01 0.01 0.01"></a-entity>
-
-    </a-scene>
-  </body>
+     <a-gltf-model src="#joda" position="0 1.25 -5"></a-gltf-model>
+   </a-scene>
+ </body>
 </html>
-
