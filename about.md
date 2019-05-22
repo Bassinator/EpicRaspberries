@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Unsere Regeln
+title: Über Uns
 permalink: /about/
 ---
       _____                _____.__                 __   
