@@ -32,8 +32,8 @@
       </a-entity>
 
       <!-- Terrain -->
-      <a-grid></a-grid>
-
+      <a-entity geometry="primitive: plane"
+          material="shader: ocean; color: blue; wave-height: 10"></a-entity>
       <!-- Checkpoints -->
       <a-entity position="1 0 1">
         <a-cylinder checkpoint radius="1" height="0.1" position="0 0 -5.2" color="#39BB82"></a-cylinder>
